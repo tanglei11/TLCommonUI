@@ -1,0 +1,16 @@
+PODS:
+  - TLCommonUI (0.1.0)
+
+DEPENDENCIES:
+  - TLCommonUI (from `../`)
+
+EXTERNAL SOURCES:
+  TLCommonUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TLCommonUI: cb822a9e6ab23c297e3c1d4ff6c121c0c427456e
+
+PODFILE CHECKSUM: fb9524bf684871a1dbbadd7c3d7c1e49b0070e72
+
+COCOAPODS: 1.10.2
